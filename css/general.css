@@ -1,0 +1,15 @@
+#content {
+	width: 500px;
+	margin: 0 auto auto;
+}
+
+
+.links a{
+   margin-left: auto;
+   margin-right: auto;
+   width: 0em;
+}
+
+img {
+	max-width: 100%;
+}
